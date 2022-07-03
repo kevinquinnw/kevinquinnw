@@ -34,4 +34,4 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Kevin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=kevinquinnw&custom_title=Kevin%20Quinn's%20Contribution%20Graph&theme=tokyonight&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://kevinquinnw.github.io/landing)
+[![Kevin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=kevinquinnw&custom_title=Kevin%20Quinn's%20Contribution%20Graph&theme=tokyonight&bg_color=1A1B27&hide_border=true&line=d1a01f&point=c58545)](https://kevinquinnw.github.io/landing)
