@@ -20,7 +20,7 @@ class KevinQuinn():
     return self.name
 
 if __name__ == '__main__':
-    me =KevinQuinn()
+    me = KevinQuinn()
 ```
 
 ## My Statistics
