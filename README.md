@@ -3,7 +3,7 @@
 </h1>
 
 Hi there! I'm Kevin Quinn a 3rd year student at the University of Toronto studying CS, Math and Stats. :school_satchel:
-- I'm currently working on AI Decision Coordination at IBM as a Software Developer :computer:
+- I'm currently working on AI Decision Coordination at <a href="https://www.ibm.com/ca-en">IBM</a> as a Software Developer :computer:
 - I love golf and am currently working on a projectile motion simulator project to test different ball flights :golf:
 <br>
 
