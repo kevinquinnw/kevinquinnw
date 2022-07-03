@@ -28,10 +28,10 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://kevinquinnw.github.io/landing">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kevinquinnw&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinquinnw&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kevinquinnw&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinquinnw&theme=dracula&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Kevin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=kevinquinnw&custom_title=Kevin%20Quinn's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://kevinquinnw.github.io/landing)
+[![Kevin's Activity Graph](https://activity-graph.herokuapp.com/graph?username=kevinquinnw&custom_title=Kevin%20Quinn's%20Contribution%20Graph&theme=dracula&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://kevinquinnw.github.io/landing)
