@@ -7,22 +7,6 @@ Hi there! I'm Kevin Quinn a 3rd year student at the University of Toronto studyi
 - I love golf and am currently working on a projectile motion simulator project to test different ball flights :golf:
 <br>
 
-```python
-class KevinQuinn():
-    
-  def __init__(self):
-    self.name = "Kevin Quinn";
-    self.username = "kevinquinnw";
-    self.location = "Toronto, Canada";
-    self.web = "https://kevinquinnw.github.io/landing";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = KevinQuinn()
-```
-
 ## My Statistics
 
 <br/>
